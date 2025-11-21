@@ -1,0 +1,23 @@
+footer{
+    position: fixed;
+    left:0;
+    bottom:0;
+    width:100%;
+    image-resolution: 20px;
+    background-color: bisque;
+    color:black;
+    text-align: center;
+}
+.footer-content{
+    max-width: 960px;
+    margin: 0 auto;
+    font-family: "Comic Sans MS", "Comic Sans", "cursive";
+    font-style: bold italic;
+    font-weight: 100;
+    line-height: 1.4;
+    letter-spacing: .03em;
+    font-size: 1em;
+}
+.credit{
+  text-align: center;
+}
